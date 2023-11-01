@@ -64,7 +64,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698867944478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Making Shell Scripting Topics.">
+      <option name="closed" value="true" />
+      <created>1698868268252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698868268252</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Making Shell Scripting Topics.">
+      <option name="closed" value="true" />
+      <created>1698868336231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698868336231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
